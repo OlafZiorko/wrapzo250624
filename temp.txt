@@ -1,0 +1,717 @@
+<!--testominal article-->
+<article class="testimonial__article">
+  <header class="testomianl__header">
+    <ul class="user__rating">
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+    </ul>
+    <p>Paweł Klenart</p>
+  </header>
+  <p>
+    "Świetny efekt po wszystkich zabiegach, auto doprowadzone wręcz do stanu
+    salonowego. Efekty przerosły moje oczekiwania. Polecam, pełny profesjonalizm
+    i świetne podejście do klientów.",
+  </p>
+</article>
+<!--testominal article-->
+<article class="testimonial__article">
+  <header class="testomianl__header">
+    <ul class="user__rating">
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+    </ul>
+    <p>Arkadiusz Szapke</p>
+  </header>
+  <p>
+    Mój kilkuletni volkswagen przeszedł korektę lakieru wraz z zabezpieczeniem
+    ceramicznym. Auto wyglada niesamowicie. Duży plus za profesjonalne podejście
+    do klienta.
+  </p>
+</article>
+<!--testominal article-->
+<article class="testimonial__article">
+  <header class="testomianl__header">
+    <ul class="user__rating">
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+    </ul>
+    <p>Andrzej Kowalski</p>
+  </header>
+  <p>
+    Cena i jakość mnie przekonała, świetnie odnowić lakier przed latem. Polecam
+  </p>
+</article>
+<!--testominal article-->
+<article class="testimonial__article">
+  <header class="testomianl__header">
+    <ul class="user__rating">
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+    </ul>
+    <p>Marcin Taraszczyk</p>
+  </header>
+  <p>Firma godna polecenia 😀 w maju stawiam 2gi samochód.Polecam</p>
+</article>
+<!--testominal article-->
+<article class="testimonial__article">
+  <header class="testomianl__header">
+    <ul class="user__rating">
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+      <li class="starts--items">
+        <img src="./images/assets/star.png" alt="" />
+      </li>
+    </ul>
+    <p>Darek Herb</p>
+  </header>
+  <p>
+    Bardzo polecam wszystkim wrapzo Detailing zdecydowaliśmy się na 3 letnia
+    powłokę ceramiczną super podejście do klienta Nasza BMW f20 wygląda po
+    wizycie u nich jak z salonu ceramika robi robote auto wygląda czadowo
+    Wszystkim polecam
+  </p>
+</article>
+
+
+
+    <!--articles section ZMIANA STRUKTURY-->
+
+    <section class="services__section">
+      <h2 class="section--title">Nasze usługi</h2>
+
+      <!--powłoki ceramiczne-->
+      <article class="article">
+        <header class="article__header">
+          <span>Popularny</span>
+          <h3 class="service__title">Powłoki ceramiczne</h3>
+          <p class="service__description">
+            Zabezpieczenie lakieru powłokami ceramicznymi Powłoki ceramiczne to
+            specjalne powłoki ochronne, które są nanoszone na powierzchnie
+            samochodów, aby zapewnić lepszą ochronę lakieru i zwiększyć trwałość
+            pojazdu. Powłoki ceramiczne są zazwyczaj wykonane z krzemionki, a
+            ich głównym zadaniem jest ochrona lakieru przed uszkodzeniami
+            mechanicznymi, takimi jak zarysowania i zadrapania, a także przed
+            szkodliwym działaniem czynników atmosferycznych, takich jak
+            promieniowanie UV i zanieczyszczenia powietrza.
+          </p>
+          <a
+            href="#"
+            class="border-r border-blck"
+            aria-label="link do powłok ceramicznych"
+            >Czytaj dalej</a
+          >
+        </header>
+        <figure class="artilce__image">
+          <img
+            src="./images/cards/powloki_ceramiczne.webp"
+            alt="powłowki ceramiczne w Wrapzo"
+            title="powłoki ceramiczne w Wrapzo"
+            loading="lazy"
+          />
+          <figcaption>Powłoki ceramiczne dla twojego samochdou</figcaption>
+        </figure>
+      </article>
+
+      <!--articles section ZMIANA STRUKTURY-->
+
+      <!-- korekta lakieru-->
+      <article>
+        <div class="article__content">
+          <span>Nasze usługi</span>
+          <h2>Korekta lakieru Polerowanie lakieru</h2>
+          <p>
+            Usługa skierowana dla pojazdów, których lakier stracił swój
+            pierwotny blask lub stał się matowy, co gorsze porysowany. Do
+            uszkodzeń powłoki lakierniczej najczęściej dochodzi poprzez
+            nieodpowiednie mycie karoserii lub przy zastosowaniu nieodpowiednich
+            środków chemicznych. Na pogarszający stan lakieru ma również wiele
+            czynników zewnętrznych tj.
+          </p>
+          <a
+            href="#"
+            class="border-r border-blck"
+            title="Korekta lakieru Polerowanie lakieru"
+            aria-label="link do strony dotyczącej korekty lakieru samochodu"
+            >Czytaj dalej</a
+          >
+        </div>
+        <figure class="artilce__image">
+          <img
+            src="./images/cards/korekta_lakieru.webp"
+            alt="korekta lakieru, polerowanie lakieru"
+            title="korekta lakieru, polerowanie lakieru"
+            loading="lazy"
+          />
+          <figcaption>Korekta lakieru Polerowanie lakieru</figcaption>
+        </figure>
+      </article>
+
+      <div class="hidden__menu">
+        <!--przyciemnianie szyb-->
+        <article>
+          <div class="article__content">
+            <span>Nasze usługi</span>
+            <h2>Przyciemnianie szyb</h2>
+            <p>
+              Przyciemnione szyby to nie tylko wizualny efekt lecz praktyczne
+              rozwiązanie dla każdego. Przyciemnione szyby nadadzą charakteru
+              twojemu auto ale również polepsza ekonomię zużycia paliwa dzięki
+              zmniejszeniu nagrzewania się wnętrza pojazdu. Na rynku istnieje
+              wiele typów folii samochodowych począwszy od zwykłych folii
+              barwionych, barwionych i metalizowanych, nano-carbonowe, po
+              ceramiczne.
+            </p>
+            <a
+              href="#"
+              class="border-r border-blck"
+              aria-label="przyciemnanie szyb w samochodzie"
+              >Czytaj dalej</a
+            >
+          </div>
+          <figure class="artilce__image">
+            <img
+              src="./images/cards/przyciemnianie_szyb.webp"
+              alt="przyciemnanie szyb w samochodzie"
+              title="przyciemnanie szyb w samochodzie"
+              loading="lazy"
+            />
+            <figcaption>Przyciemnanie szyb w samochodzie</figcaption>
+          </figure>
+        </article>
+        <!--usługa oklejania samochodu folią ppf-->
+        <article>
+          <div class="article__content">
+            <span>Nasze usługi</span>
+            <h2>Oklejanie Folią PPF</h2>
+            <p>
+              Folie ppf (paint protecion film) to na dzień dzisiejszy jedyna
+              najskuteczniejsza ochrona lakieru twojego samochodu. Folia ta
+              zapewnia wysokie właściwości ochronne na zadrapania, zarysowania,
+              obicia, otarcia. Jest przeźroczysta i praktycznie niewidoczna.
+              Położona na twoim samochodzie zapewni na stałe wyrazistość koloru.
+            </p>
+            <a
+              href="#"
+              class="border-r border-blck"
+              aria-label="oklejanie samochodu folią PPF"
+              >Czytaj dalej</a
+            >
+          </div>
+          <figure class="artilce__image">
+            <img
+              src="./images/cards/oklejanie_folia.webp"
+              alt="oklejanie samochodu folią PPF"
+              title="oklejanie samochodu folią PPF"
+              loading="lazy"
+            />
+            <figcaption>Oklejanie pojazdu folią PPF</figcaption>
+          </figure>
+        </article>
+        <!--przyciemnianie szyb-->
+        <article>
+          <div class="article__content">
+            <span>Nasze usługi</span>
+            <h2>Deep Clean Detailing</h2>
+            <p>
+              U nas nie ma miejsca na półśrodki. Stworzyliśmy pakiet na start,
+              będący bazą do bieżącej pielęgnacji auta. Pakiet polega na
+              przywróceniu salonowego stanu twojego auta. Na usługę składa się
+              pełna dekontaminacja i deironizacja lakieru i felg, detailingowe
+              mycie każdego zakamarku pojazdu oraz zabezpieczenie karoserii
+              sealant'em na okres 6 - 8 miesięcy.
+            </p>
+            <a
+              href="#"
+              class="border-r border-blck"
+              aria-label="czyszczenie pojazdu, car detailing w Wrapzo"
+              >Czytaj dalej</a
+            >
+          </div>
+          <figure class="artilce__image">
+            <img
+              src="./images/cards/detailing-samochodowy.webp"
+              alt="czyszczenie detaliczne samochodu, car detailing w Wrapzo"
+              title="czyszczenie detaliczne samochodu, car detailing w Wrapzo"
+              loading="lazy"
+            />
+            <figcaption>Czyszczenie pojazdu, car detailing</figcaption>
+          </figure>
+        </article>
+        <!--zmiana koloru pojazdu-->
+        <article>
+          <div class="article__content">
+            <span>Nasze usługi</span>
+            <h2>Zmiana koloru samochodu</h2>
+            <p>
+              Z nami nadasz nowy wygląd swojego auta. Zmieniając kolor swojego
+              samochodu jesteś w stanie nadać mu spersonalizowany charakter.
+              Dzięki szerokiej palecie kolorów możemy zaproponować praktycznie
+              nieograniczony wybór. Zmiana koloru auta lub jego elementów jest
+              znacznie tańsze od lakierowania, a dodatkowo gdy znudzi Ci się
+              obecny kolor, to istnieje możliwość zmiany koloru folii lub
+              pozbycia się jej i przywrócenia poprzedniego stanu.
+            </p>
+            <a
+              href="#"
+              class="border-r border-blck"
+              aria-label="link do strony o zmianie koloru samochodu"
+              >Czytaj dalej</a
+            >
+          </div>
+          <figure class="artilce__image">
+            <img
+              src="./images/cards/zmiana_koloru.webp"
+              alt="zmiana koloru samochodu, nowy wygląd auta"
+              title="zmiana koloru samochodu, nowy wygląd auta"
+              loading="lazy"
+            />
+            <figcaption>Zmiana koloru samochodu, nowy wygląd auta</figcaption>
+          </figure>
+        </article>
+      </div>
+
+      <buttton class="show-more show-less border-r border-blck"
+        >Pokaż więcej
+      </buttton>
+    </section>
+    <!--about company-->
+    <section class="about__company">
+      <article class="article__content">
+        <span>O Nas</span>
+        <h2>Wrapzo Car Detailing</h2>
+        <p>
+          Profesjonalne studio detailingowe oraz wrappingowe samochodów.
+          Zapewniamy najwyższą jakość świadczenia usług oraz podejścia do
+          klienta.Pracujemy tylko na sprawdzonych markach. Oferujemy szeroki
+          wahlarz usług od oklejania foliami PPF po detailingowe mycie pojazdu.
+        </p>
+        <a
+          href="#"
+          class="border-r border-wht"
+          aria-label="link do strony o firmie detailingowej Wrapzo"
+          >Czytaj dalej</a
+        >
+      </article>
+    </section>
+
+    <!--testominal section-->
+    <section class="testimonial__section">
+      <h2>Oceny i recenzje</h2>
+      <section class="slider__section">
+        <!--testominal article-->
+
+        <article class="testimonial__article">
+          <figure></figure>
+
+          <header class="testomianl__header">
+            <p class="costumer--name">Wiesław Kożuchowsk</p>
+            <ul class="user__rating">
+              <li class="starts--items">
+                <img src="./images/assets/star.png" alt="" />
+              </li>
+              <li class="starts--items">
+                <img src="./images/assets/star.png" alt="" />
+              </li>
+              <li class="starts--items">
+                <img src="./images/assets/star.png" alt="" />
+              </li>
+              <li class="starts--items">
+                <img src="./images/assets/star.png" alt="" />
+              </li>
+              <li class="starts--items">
+                <img src="./images/assets/star.png" alt="" />
+              </li>
+            </ul>
+            <p class="costumer--description">
+              2 miesiące temu Vw T-rok nowy i tak się świecił po nałożeniu
+              pięcioletniej ceramiki wygląda obłędnie ☆☆☆. Pełen profesjonalizm
+              pan B. podchodzi do tematu z pasją i znajdzie czas aby doradzić
+              jak dbać o auto żeby wyglondało świetnie przez długie lata.
+            </p>
+            <div class="btn-group">
+              <button class="nextBtn"></button>
+              <button class="prevBtn"></button>
+            </div>
+          </header>
+        </article>
+      </section>
+    </section>
+
+    <!--footer section-->
+    <footer class="page__footer">
+      <figure class="footer__logo">
+        <img
+          src="./images/logo/company__logo-l.png"
+          alt="Wrapzio logo - usługi z zakresu detailingu samochodowego na terenie Śląska"
+          title="Wrapzio logo - usługi z zakresu detailingu samochodowego na terenie Śląska"
+          loading="lazy"
+        />
+        <figcaption>Profesjonalne Usługi Detailingowe</figcaption>
+      </figure>
+      <!--footer list-->
+      <ul class="footer__list">
+        <li class="list__items"><a href="./sites/wrapzo.html">O nas</a></li>
+        <li class="list__items">
+          <a href="./sites/wrapzo.html">Kim jesteśmy</a>
+        </li>
+      </ul>
+      <!--footer list-->
+      <ul class="footer__list">
+        <li class="list__items"><a href="./sites/uslugi.html">Usługi</a></li>
+        <li class="list__items">
+          <a
+            href="./sites/przyciemnianie-szyb.html"
+            aria-label="link do strony o przyciemnianiu szyb"
+            >Przyciemnianie szyb</a
+          >
+        </li>
+        <li class="list__items">
+          <a
+            href="./sites/folia-ppf.html"
+            aria-label="link do strony o foli PPF"
+            >Folia ochronna PPF</a
+          >
+        </li>
+        <li class="list__items">
+          <a
+            href="./sites/detailing.html"
+            aria-label="link do strony o detailingu"
+            >Detailing samochodowy</a
+          >
+        </li>
+        <li class="list__items">
+          <a
+            href="./sites/zmiana-koloru.html"
+            aria-label="link do usługi zmiany koloru samochodu"
+            >Zmiana koloru samochodu</a
+          >
+        </li>
+        <li class="list__items">
+          <a
+            href="./sites/korekta-lakieru.html"
+            aria-label="link do korekty lakieru"
+            >Korekta lakieru</a
+          >
+        </li>
+        <li class="list__items">
+          <a
+            href="./sites/powloki-ceramiczne.html"
+            aria-label="link do strony o powłokach ceramicznych"
+            >Powłoki ceramiczne</a
+          >
+        </li>
+      </ul>
+      <!--footer list-->
+      <ul class="footer__list">
+        <li class="list__items">
+          <a
+            href="./sites/kontakt.html"
+            aria-label="link do kontaktu z firmą wrapzo "
+            >Kontakt</a
+          >
+        </li>
+        <li class="list__items">
+          <img
+            src="./images/assets/pin.png"
+            alt="adres firmy detailingowej wrapzo"
+          />
+          <span>43-187 Orzesze ul. Mieszka I 1</span>
+        </li>
+        <li class="list__items">
+          <img src="./images/assets/phone.png" alt="skontaktuje się z wrapzo" />
+          <a
+            href="tel:+48-571-206-581"
+            aria-label="numer telefonu do firmy detailingowej wrapzo"
+            >571-206-581</a
+          >
+        </li>
+        <!--footer list-->
+        <ul class="social__media">
+          <li class="list__items"><p>Odwiedź nas</p></li>
+          <li class="list__items">
+            <a
+              href="https://www.facebook.com/wrapzodetailing"
+              target="_blank"
+              aria-label="link do strony wrapzo na facebooku"
+              ><img src="./images/assets/facebook.png" alt="facebook icon"
+            /></a>
+            <a
+              href="https://www.instagram.com/wrapzo_detailing/"
+              target="_blank"
+              aria-label="link do strony wrapzo na instagramie"
+            >
+              <img src="./images/assets/instagram.png" alt="instagram icon"
+            /></a>
+
+            <a
+              href=""
+              target="_blank"
+              aria-label="link do strony wrapzo na twitterze"
+            >
+              <img src="./images/assets/twitter.png" alt="twitter icon"
+            /></a>
+          </li>
+        </ul>
+      </ul>
+      <!-- <div class="sign-up">
+        <p><strong>Zapisz się</strong> do newslettera</p>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui incidunt
+          aperiam perferendis aut libero dolorum!
+        </p>
+        <form class="sign-up__form">
+          <input type="text" />
+          <input type="submit" value="" />
+        </form>
+      </div> -->
+    </footer>
+    <script src="./scripts/main.js"></script>
+
+
+
+      <!--page header-->
+    <header class="page__header">
+      <!--navigation-->
+
+      <!--hero section-->
+      <div class="hero__section">
+        <article class="hero__article">
+          <h1>
+            Profesjonalne usługi <br />
+            Detailingowe
+          </h1>
+
+          <ul class="hero__list">
+            <li class="list__item border-r">
+              <a href="#" aria-label=" link do naszych usług">Nasze usługi</a>
+            </li>
+            <li class="list__item border-r">
+              <a href="#" aria-label="link do galerii ">Zobacz galerie</a>
+            </li>
+          </ul>
+        </article>
+      </div>
+    </header>
+
+
+     <ul class="navigation__media">
+        <li class="list__item">
+          <a href="tel:+48571206581">571-206-581</a>
+        </li>
+        <li class="list__item">
+          <a
+            href="https://www.facebook.com/wrapzodetailing"
+            target="_blank"
+            aria-label="link do strony wrapzo na facebooku"
+            ><img src="./images/assets/facebook.png" alt="facebook icon" />
+          </a>
+        </li>
+
+        <li class="list__item">
+          <a
+            href="https://www.instagram.com/wrapzo_detailing/"
+            target="_blank"
+            aria-label="link do strony wrapzo na instagramie"
+          >
+            <img src="./images/assets/instagram.png" alt="instagram icon" />
+          </a>
+        </li>
+
+        <li class="list__item">
+          <a
+            href=""
+            target="_blank"
+            aria-label="link do strony wrapzo na twitterze"
+          >
+            <img src="./images/assets/twitter.png" alt="twitter icon"
+          /></a>
+        </li>
+      </ul>
+
+
+      nieodpowiednich
+
+
+
+       usługa przyciemniania szyb
+        <article class="article">
+          <figure class="artilce__image">
+            <img
+              src="./images/cards/przyciemnianie_szyb.webp"
+              alt="przyciemnanie szyb w samochodzie"
+              title="przyciemnanie szyb w samochodzie"
+              loading="lazy"
+            />
+            <figcaption>Przyciemnanie szyb w samochodzie</figcaption>
+          </figure>
+
+          <header class="article__header">
+            <h3 class="article__title">Przyciemnianie szyb</h3>
+            <p class="article__description">
+              Przyciemnione szyby to nie tylko wizualny efekt lecz praktyczne
+              rozwiązanie dla każdego. Przyciemnione szyby nadadzą charakteru
+              twojemu auto ale również polepsza ekonomię zużycia paliwa dzięki
+              zmniejszeniu nagrzewania się wnętrza pojazdu. Na rynku istnieje
+              wiele typów folii samochodowych począwszy od zwykłych folii
+              barwionych...
+            </p>
+            <div class="btn__wrapper">
+              <a href="#" aria-label="link do powłok ceramicznych"
+                >Czytaj dalej</a
+              >
+              <a href="#" aria-label="umów wizytę w salonie">Kontakt</a>
+            </div>
+          </header>
+        </article>
+
+        <!--usługa oklejania samochodu folią ppf-->
+        <article class="article">
+          <figure class="artilce__image">
+            <img
+              src="./images/cards/oklejanie_folia.webp"
+              alt="oklejanie samochodu folią PPF"
+              title="oklejanie samochodu folią PPF"
+              loading="lazy"
+            />
+            <figcaption>Oklejanie pojazdu folią PPF</figcaption>
+          </figure>
+          <header class="article__header">
+            <h3 class="article__title">Oklejanie Folią PPF</h3>
+            <p class="article__description">
+              Folie ppf (paint protecion film) to na dzień dzisiejszy jedyna
+              najskuteczniejsza ochrona lakieru twojego samochodu. Folia ta
+              zapewnia wysokie właściwości ochronne na zadrapania, zarysowania,
+              obicia, otarcia. Jest przeźroczysta i praktycznie niewidoczna.
+              Położona na twoim samochodzie zapewni na stałe wyrazistość koloru.
+            </p>
+            <div class="btn__wrapper">
+              <a href="#" aria-label="link do powłok ceramicznych"
+                >Czytaj dalej</a
+              >
+              <a href="#" aria-label="umów wizytę w salonie">Kontakt</a>
+            </div>
+          </header>
+        </article>
+        <!--usługa czyszczenia detailingowego-->
+        <article class="article">
+          <figure class="artilce__image">
+            <img
+              src="./images/cards/detailing-samochodowy.webp"
+              alt="czyszczenie detaliczne samochodu, car detailing w Wrapzo"
+              title="czyszczenie detaliczne samochodu, car detailing w Wrapzo"
+              loading="lazy"
+            />
+            <figcaption>Deep Clean Detailing</figcaption>
+          </figure>
+
+          <header class="article__header">
+            <h3 class="article__title">Deep Clean Detailing</h3>
+            <p class="article__description">
+              U nas nie ma miejsca na półśrodki. Stworzyliśmy pakiet na start,
+              będący bazą do bieżącej pielęgnacji auta. Pakiet polega na
+              przywróceniu salonowego stanu twojego auta. Na usługę składa się
+              pełna dekontaminacja i deironizacja lakieru i felg, detailingowe
+              mycie każdego zakamarku pojazdu oraz zabezpieczenie karoserii
+              sealant'em na okres 6 - 8 miesięcy.
+            </p>
+            <div class="btn__wrapper">
+              <a href="#" aria-label="link do powłok ceramicznych"
+                >Czytaj dalej</a
+              >
+              <a href="#" aria-label="umów wizytę w salonie">Kontakt</a>
+            </div>
+          </header>
+        </article>
+
+
+
+          <!--usługa oklejania samochodu folią ppf-->
+        <article class="article">
+          <figure class="artilce__image">
+            <img
+              src="./images/cards/oklejanie_folia.webp"
+              alt="oklejanie samochodu folią PPF"
+              title="oklejanie samochodu folią PPF"
+              loading="lazy"
+            />
+            <figcaption>Oklejanie pojazdu folią PPF</figcaption>
+          </figure>
+          <header class="article__header">
+            <h3 class="article__title">Oklejanie Folią PPF</h3>
+            <p class="article__description">
+              Folie ppf (paint protecion film) to na dzień dzisiejszy jedyna
+              najskuteczniejsza ochrona lakieru twojego samochodu. Folia ta
+              zapewnia wysokie właściwości ochronne na zadrapania, zarysowania,
+              obicia, otarcia. Jest przeźroczysta i praktycznie niewidoczna.
+              Położona na twoim samochodzie zapewni na stałe wyrazistość koloru.
+            </p>
+            <div class="btn__wrapper">
+              <a href="#" aria-label="link do powłok ceramicznych"
+                >Czytaj dalej</a
+              >
+              <a href="#" aria-label="umów wizytę w salonie">Kontakt</a>
+            </div>
+          </header>
+        </article>
